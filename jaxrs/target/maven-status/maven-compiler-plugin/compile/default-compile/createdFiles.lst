@@ -1,0 +1,5 @@
+com\rest\jersey\PartyDTO.class
+com\rest\jersey\Response.class
+com\rest\jersey\FCService.class
+com\rest\jersey\FCModel.class
+com\rest\jersey\Response$Status.class
