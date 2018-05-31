@@ -1,0 +1,3 @@
+com\rest\client\RestClient.class
+com\rest\client\jerseyClient.class
+com\rest\client\PartyDTO.class
